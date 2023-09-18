@@ -10,7 +10,8 @@ Test and Tain data set is already provided in my repo
 
 ## Libraries used
 
-Numpy
-Scikit-learn
-Feature Engine
+Numpy, Scikit-learn, Feature Engine
 
+## Purpose
+
+The purpose of this repo is to show how we can use different python libraries for filling missing values.
